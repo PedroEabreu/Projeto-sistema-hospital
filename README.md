@@ -1,6 +1,6 @@
 # Projeto de um sistema simplificado de um hospital
 Desenvolvido na disciplina de Programação de Computadores II
-EAE MAN
+
 # Funcionalidades:
 - Cadastro 
 ![Cadastro](https://github.com/vitorgaps/Projeto-sistema-hospital/blob/master/Funcionalidades/test2.PNG)
